@@ -1,0 +1,16 @@
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\MainWindow.g.cs
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\App.g.cs
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack_MarkupCompile.cache
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack_MarkupCompile.lref
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\MainWindow.baml
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack.g.resources
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\AcePopUp.g.cs
+C:\Users\AJ Rogers\Desktop\Coder Camps\C#\BlackJack\BlackJack\obj\Debug\AcePopUp.baml
